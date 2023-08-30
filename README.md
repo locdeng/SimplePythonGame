@@ -1,10 +1,10 @@
 # SimplePythonGame
 
-Rock-Paper-Scissors Game
+#Rock-Paper-Scissors Game
 
 This is a simple automated Rock-Paper-Scissors game implemented in Python. The game allows a human player to compete against the computer by choosing either rock, paper, or scissors. The computer's choice is also randomly generated.
 
-How to Play
+#How to Play
 
 -Run the Python script main.py.
 -Enter your choice when prompted (rock, paper, or scissors).
@@ -12,7 +12,7 @@ How to Play
 -The winner of the round will be determined based on the choices.
 -You can choose to continue playing or exit the game.
 
-Features
+#Features
 
 -Human vs. Computer gameplay.
 -Random computer choice generation.
@@ -20,7 +20,7 @@ Features
 -Option to continue playing or exit the game.
 -Display of overall results after playing.
 
-Game Logic
+#Game Logic
 
 -The game uses the following logic to determine the winner of a round:
 
