@@ -21,7 +21,7 @@ This is a simple automated Rock-Paper-Scissors game implemented in Python. The g
 
 # Game Logic
 
--The game uses the following logic to determine the winner of a round:
+The game uses the following logic to determine the winner of a round:
 
 + Rock beats scissors. 
 + Scissors beat paper.
