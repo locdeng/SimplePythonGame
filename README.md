@@ -1,4 +1,3 @@
-# SimplePythonGame
 
 # Rock-Paper-Scissors Game
 
